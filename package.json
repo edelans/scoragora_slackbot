@@ -1,0 +1,27 @@
+{
+  "name": "scoragora_slackbot",
+  "version": "1.0.0",
+  "description": "a slackbot for scoragora app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/edelans/scoragora_slackbot.git"
+  },
+  "keywords": [
+    "slackbot",
+    "scoragora"
+  ],
+  "author": "edelans & tinuleku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edelans/scoragora_slackbot/issues"
+  },
+  "homepage": "https://github.com/edelans/scoragora_slackbot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
